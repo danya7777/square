@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/danya/Рабочий стол/Projects/C/square",
-      "program": "/home/danya/Рабочий стол/Projects/C/square/build/Debug/outDebug",
+      "cwd": "/home/danya/Desktop/Projects/C/square",
+      "program": "/home/danya/Desktop/Projects/C/square/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
